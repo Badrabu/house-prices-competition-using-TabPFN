@@ -1,0 +1,4 @@
+model=HistGradientBoostingRegressor(log1p target)
+cv_folds=5
+cv_rmsle_mean=0.138839
+metric=RMSLE (Kaggle House Prices official)
